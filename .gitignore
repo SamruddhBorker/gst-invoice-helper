@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.db
+INV-*.html
+PREVIEW.html
+*.csv

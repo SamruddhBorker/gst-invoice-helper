@@ -1,0 +1,21 @@
+{
+  "seller": {
+    "name": "Coastal Café (sample)",
+    "gstin": "30AAACP1234C1ZE",
+    "state_code": "30",
+    "registration": "regular",
+    "address": "Beach Road, Goa",
+    "phone": "+91 00000 00000",
+    "bank": "Sample Bank, A/c 0000000000, IFSC SAMP0000000"
+  },
+  "buyer": {
+    "name": "Walk-in customer",
+    "state_code": "30"
+  },
+  "items": [
+    {"description": "Catering service", "hsn": "996334", "qty": 1, "unit": "Nos", "rate": 12500, "gst_rate": 5},
+    {"description": "Coffee beans 1 kg", "hsn": "0901", "qty": 2, "unit": "Kg", "rate": 850.50, "gst_rate": 5, "discount": 50},
+    {"description": "Branded mug", "hsn": "6912", "qty": 6, "unit": "Nos", "rate": 299, "gst_rate": 18}
+  ],
+  "notes": "Thank you for your business. (Sample data: GSTIN and bank details are fictional.)"
+}

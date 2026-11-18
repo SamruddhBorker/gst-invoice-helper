@@ -1,0 +1,18 @@
+{
+  "seller": {
+    "name": "Coastal Café (sample)",
+    "gstin": "30AAACP1234C1ZE",
+    "state_code": "30",
+    "registration": "regular",
+    "address": "Beach Road, Goa"
+  },
+  "buyer": {
+    "name": "Mumbai Traders Pvt Ltd (sample)",
+    "gstin": "27AAPFU0939F1ZV",
+    "address": "Andheri East, Mumbai"
+  },
+  "items": [
+    {"description": "Coffee beans 25 kg bulk", "hsn": "0901", "qty": 4, "unit": "Bags", "rate": 18000, "gst_rate": 5},
+    {"description": "Packaging and handling", "hsn": "998549", "qty": 1, "rate": 1500, "gst_rate": 18}
+  ]
+}
